@@ -8,14 +8,6 @@ This is hackerearth problem, i got 200 rank out of 6000 participants with score=
 The data consists the following columns
 
 Column Description
-Sl No.	Column Name	Description
-1	pet_id	Unique Pet Id
-2	issue_date	Date on which the pet was issued to the shelter
-3	listing_date	Date when the pet arrived at the shelter
-4	condition	Condition of the pet
-5	color_type	Color of the pet
-6	length(m)	Length of the pet (in meter)
-7	height(cm)	Height of the pet (in centimeter)
-8	X1,X2	Anonymous columns
-9	breed_category	Breed category of the pet (target variable)
-10	pet_category	Category of the pet (target variable)
+Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
