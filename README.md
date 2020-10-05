@@ -8,6 +8,6 @@ This is hackerearth problem, i got 200 rank out of 6000 participants with score=
 The data consists the following columns
 
 Column Description
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+Sl No.	 | Column Name |     Description     
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+1	       | pet_id      |     Unique Pet Id
