@@ -20,4 +20,9 @@ Column Description
 9) breed_category = Breed category of the pet (target variable) <br />
 10) pet_category = Category of the pet (target variable) <br />
 
+Data Description: <br />
+The data consists of 2 CSV files <br />
+train.csv - 18834 x 11 <br />
+test.csv - 8072 x 9 <br />
+
 
