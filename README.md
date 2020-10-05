@@ -9,7 +9,7 @@ The data consists the following columns
 
 Column Description
 Sl No.	 | Column Name |     Description     
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+--- | --- | --- | --- |
 1	       | pet_id      |     Unique Pet Id
 
 Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
