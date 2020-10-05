@@ -10,6 +10,14 @@ The data consists the following columns
 Column Description
 
 1) pet_id = Unique Pet Id <br />
-2)
+2) issue_date = Date on which the pet was issued to the shelter <br />
+3) listing_date = Date when the pet arrived at the shelter <br />
+4) condition = Condition of the pet <br />
+5) color_type = Color of the pet <br />
+6) length(m) = Length of the pet (in meter) <br />
+7) height(cm) = Height of the pet (in centimeter) <br />
+8) X1,X2	 = Anonymous columns <br />
+9) breed_category = Breed category of the pet (target variable) <br />
+10) pet_category = Category of the pet (target variable) <br />
 
 
